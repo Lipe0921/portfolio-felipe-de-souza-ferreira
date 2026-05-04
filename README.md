@@ -45,7 +45,7 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 
 - `root/`: Arquivo de apresentação principal (este README).
 - `/batalha-modelos-ia/`: Documentação e análise comparativa de modelos (Gemini, GPT, Claude, etc.).
-- `/sql-prompt-engineer/`: Template de prompt XML para geração segura de queries SQL[cite: 1].
+- `/sql-prompt-engineer/`: Template de prompt XML para geração segura de queries SQL.
 - `/projeto-ia-classificador/`: Pasta contendo a documentação e o modelo de visão computacional.
 
 ---
