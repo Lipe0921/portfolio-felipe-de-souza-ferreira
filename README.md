@@ -1,20 +1,20 @@
-# FELIPE DE SOUZA FERREIRA
+# Felipe de Souza Ferreira
 > Estudante de Engenharia de Software na UNICID | Desenvolvedor em Formação 🚀
 
 ---
 
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felioef302@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.souza@exemplo.com)
 
 ---
 
 ### 👨‍💻 Sobre
 Atualmente cursando o início do curso de **Engenharia de Software** na **UNICID**. Sou apaixonado por resolver problemas através da tecnologia e possuo foco no aprendizado de lógica, automação e inteligência artificial. 
 
-Tenho experiência com rotinas operacionais dinâmicas no setor têxtil, o que me proporcionou uma forte base em organização, trabalho em equipe e resiliência — habilidades que agora aplico na transição para a área de tecnologia.
+Tenho experiência com rotinas operacionais dinâmicas, o que me proporcionou uma forte base em organização, trabalho em equipe e resiliência — competências que agora aplico no desenvolvimento de software e análise de sistemas.
 
-* **Habilidades Técnicas:** Git, GitHub, Lógica de Programação, Python e Noções de IA.
+* **Habilidades Técnicas:** Git, GitHub, Engenharia de Prompt (XML), Python e Lógica de Programação.
 * **Habilidades Socioemocionais:** Pensamento crítico, adaptabilidade e comunicação assertiva.
 
 ---
@@ -32,10 +32,10 @@ Tenho experiência com rotinas operacionais dinâmicas no setor têxtil, o que m
 
 ### 📂 Portfólio de Projetos
 
-#### 🤖 Inteligência Artificial & Machine Learning
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Classificador de IA** | Modelo treinado no Teachable Machine para reconhecimento de imagens em tempo real. | [Ver Projeto](./projeto-ia-classificador/) |
+| **Batalha de Modelos IA** | Estudo comparativo de 7 LLMs utilizando Engenharia de Prompt estruturada em XML[cite: 1]. | [Ver Projeto](./batalha-modelos-ia/) |
+| **Classificador de IA** | Modelo de Machine Learning treinado para reconhecimento de imagens em tempo real. | [Ver Projeto](./projeto-ia-classificador/) |
 
 ---
 
@@ -43,7 +43,8 @@ Tenho experiência com rotinas operacionais dinâmicas no setor têxtil, o que m
 Abaixo, a organização deste repositório para facilitar a navegação:
 
 - `root/`: Arquivo de apresentação principal (este README).
-- `/projeto-ia-classificador/`: Pasta contendo a documentação e o link para o modelo de IA desenvolvido.
+- `/batalha-modelos-ia/`: Documentação e análise comparativa de modelos como Gemini, GPT e DeepSeek[cite: 1].
+- `/projeto-ia-classificador/`: Pasta contendo a documentação e o modelo de visão computacional.
 
 ---
 [Voltar ao topo](#)
