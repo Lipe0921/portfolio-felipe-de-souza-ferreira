@@ -1,4 +1,4 @@
-# [FELIPE DE SOUZA FERREIRA]
+# FELIPE DE SOUZA FERREIRA
 > Estudante de Engenharia de Software na UNICID | Desenvolvedor em Formação 🚀
 
 ---
