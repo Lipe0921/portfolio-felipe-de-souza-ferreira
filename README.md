@@ -86,7 +86,7 @@ Tenho experiência com rotinas operacionais dinâmicas, o que me proporcionou um
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Batalha de Modelos IA** | Estudo comparativo de 7 LLMs utilizando Engenharia de Prompt estruturada em XML[cite: 1]. | [Ver Projeto](./batalha-modelos-ia/) |
-| **Classificador de IA** | Modelo de Machine Learning treinado para reconhecimento de imagens em tempo real. | [Ver Projeto](./projeto-ia-classificador/) |
+| **Classificador de IA** | Modelo de Machine Learning treinado para reconhecimento de imagens em tempo real. | [Ver Projeto](./sql-prompt-engineer/) |
 
 ---
 
