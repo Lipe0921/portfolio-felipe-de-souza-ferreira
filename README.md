@@ -13,7 +13,7 @@
 ### 👨‍💻 Sobre
 Atualmente a cursar o início de **Engenharia de Software** na **UNICID**. Sou apaixonado por resolver problemas através da tecnologia e possuo foco no aprendizado de lógica, automação, inteligência artificial e desenvolvimento de sistemas funcionais. 
 
-Tenho experiência com rotinas operacionais dinâmicas, o que me proporcionou uma forte base em organização, trabalho em equipe e resiliência — competências que agora aplico no desenvolvimento de software e análise de sistemas de alto desempenho.
+Tenho experiência com rotinas operacionais dinâmicas, o que me proporcionou uma forte base em organização, trabalho em equipe e resiliência — competências que agora aplico no desenvolvimento de software and análise de sistemas de alto desempenho.
 
 * **Habilidades Técnicas:** HTML5, CSS3, JavaScript (Vanilla), Node.js, Express, Python, SQL, Engenharia de Prompt (XML) e Git/GitHub.
 * **Habilidades Socioemocionais:** Pensamento crítico, adaptabilidade e comunicação assertiva.
@@ -40,12 +40,12 @@ Tenho experiência com rotinas operacionais dinâmicas, o que me proporcionou um
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Batalha de Modelos IA** | Estudo comparativo de 7 LLMs utilizando Engenharia de Prompt estruturada em XML. | [Ver Projeto](./batalha-modelos-ia/) |
-| **SQL Prompt Engineer** | Automação de consultas SQL utilizando prompts estruturados em XML e travas de segurança. | [Ver Projeto](./sql-prompt-engineer/) |
-| **Classificador de IA** | Modelo de Machine Learning treinado para reconhecimento de imagens em tempo real. | [Ver Projeto](./projeto-ia-classificador/) |
-| **Juros Compostos** | Aplicação Frontend de utilitários financeiros para simulação e cálculo de evolução de investimentos. | [Ver Projeto](./Juros%20compostos/) |
-| **Encurtador** | API REST desenvolvida em Node.js e Express para encurtamento de links e redirecionamento dinâmico. | [Ver Projeto](./Encurtador/) |
-| **Gerador de Senhas Seguras** | Utilitário web focado em segurança para geração customizada de senhas fortes e aleatórias. | [Ver Projeto](./Gerador%20de%20Senhas%20Seguras/) |
+| **Batalha de Modelos IA** | Estudo comparativo de 7 LLMs utilizando Engenharia de Prompt estruturada em XML. | [Ver Projeto](batalha-modelos-ia/) |
+| **SQL Prompt Engineer** | Automação de consultas SQL utilizando prompts estruturados em XML e travas de segurança. | [Ver Projeto](sql-prompt-engineer/) |
+| **Classificador de IA** | Modelo de Machine Learning treinado para reconhecimento de imagens em tempo real. | [Ver Projeto](projeto-ia-classificador/) |
+| **Juros Compostos** | Aplicação Frontend de utilitários financeiros para simulação e cálculo de evolução de investimentos. | [Ver Projeto](Juros%20compostos/) |
+| **Encurtador** | API REST desenvolvida em Node.js e Express para encurtamento de links e redirecionamento dinâmico. | [Ver Projeto](Encurtador/) |
+| **Gerador de Senhas Seguras** | Utilitário web focado em segurança para geração customizada de senhas fortes e aleatórias. | [Ver Projeto](Gerador%20de%20Senhas%20Seguras/) |
 
 ---
 
