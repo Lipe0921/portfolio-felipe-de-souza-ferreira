@@ -1,0 +1,12 @@
+{
+  "name": "encurtador-url",
+  "version": "1.0.0",
+  "description": "API simples de encurtador de URL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

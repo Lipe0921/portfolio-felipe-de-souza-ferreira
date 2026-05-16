@@ -1,0 +1,30 @@
+const express = require('express');
+const app = express();
+app.use(express.json());
+
+// Banco de dados simulado em memória
+const urls Salvas = {};
+
+// Rota para encurtar a URL
+app.post('/encurtar', (req, res) => {
+  const { urlOriginal } = req.body;
+  if (!urlOriginal) return res.status(400).json({ error: 'URL é obrigatória' });
+
+  // Gera um código aleatório simples de 5 letras/números
+  const codigo = Math.random().toString(36).substring(2, 7);
+  urlsSalvas[codigo] = urlOriginal;
+
+  res.json({ urlCurta: `http://localhost:3000/${codigo}` });
+});
+
+// Rota de redirecionamento
+app.get('/:codigo', (req, res) => {
+  const { codigo } = req.params;
+  const urlOriginal = urlsSalvas[codigo];
+
+  if (!urlOriginal) return res.status(404).send('Link não encontrado.');
+
+  res.redirect(urlOriginal);
+});
+
+app.listen(3000, () => console.log('API rodando em http://localhost:3000'));
